@@ -6,7 +6,7 @@
 Desenvolver soluções de software personalizadas, seguras e escaláveis que simplifiquem processos, aumentem a produtividade e impulsionem o crescimento dos nossos clientes.
 
 ## Localização
-- **Endereço:** Rua Coronel Simplício, 250, Sala 12
+- **Endereço:** Rua Coronel Simplício, 250, Sala 1
 - **Local:** Centro, Piripiri, PI - CEP 64260-000
 
 ## Equipe
